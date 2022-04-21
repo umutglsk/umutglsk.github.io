@@ -11,7 +11,7 @@ html{
     overflow-x: hidden;
 }
 body {
-    font-family: offerings;
+    font-family: 'offerings';
 } 
 a{
     text-decoration: none;
