@@ -7,9 +7,11 @@
 html{
     scroll-behavior: smooth;
     overflow-x: hidden;
+    font-family: 'Nunito';
 }
 .wrap {
     overflow-x: hidden;
+    font-family: 'Nunito';
 }
 a{
     text-decoration: none;
