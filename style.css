@@ -2,16 +2,16 @@
 * {
     margin: 0;
     padding: 0;  
-    font-family: 'Nunito';
+    font-family: 'Offerings';
 }
 html{
     scroll-behavior: smooth;
     overflow-x: hidden;
-    font-family: 'Nunito';
+    font-family: 'Offerings';
 }
 .wrap {
     overflow-x: hidden;
-    font-family: 'Nunito';
+    font-family: 'Offerings';
 }
 a{
     text-decoration: none;
