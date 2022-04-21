@@ -2,16 +2,16 @@
 * {
     margin: 0;
     padding: 0;  
-    font-family: 'Offerings';
+    font-family: offerings;
 }
 html{
     scroll-behavior: smooth;
     overflow-x: hidden;
-    font-family: 'Offerings';
+    font-family: offerings;
 }
 .wrap {
     overflow-x: hidden;
-    font-family: 'Offerings';
+    font-family: offerings;
 }
 a{
     text-decoration: none;
